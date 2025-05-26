@@ -1,0 +1,2 @@
+// resource.rc
+IDI_APP_ICON ICON "cmd_icon.ico"

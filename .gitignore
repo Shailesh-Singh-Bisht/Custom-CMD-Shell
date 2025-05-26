@@ -1,0 +1,38 @@
+# Build directories
+/build/
+/out/
+/bin/
+/CMakeFiles/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+Makefile
+
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Executables
+*.exe
+*.out
+
+# IDE specific files
+.vs/
+.vscode/
+*.suo
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Debug files
+*.pdb
+*.ilk
+*.idb
